@@ -1,0 +1,20 @@
+{
+  "name": "cartola",
+  "version": "1.0.0",
+  "description": "Parciais cartola FC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cartolafc",
+    "parciais"
+  ],
+  "author": "Douglas Neves",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "consign": "^0.1.6",
+    "express": "^4.15.3"
+  }
+}
